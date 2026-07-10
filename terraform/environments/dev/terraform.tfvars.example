@@ -1,0 +1,9 @@
+resource_group_name = "rg-enterprise-dev"
+
+location = "Central India"
+
+tags = {
+  Environment = "Development"
+  Project     = "Enterprise-AKS-Platform"
+  Owner       = "Saquib"
+}
