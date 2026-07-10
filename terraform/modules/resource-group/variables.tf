@@ -5,7 +5,7 @@ variable "resource_group_name" {
 }
 
 variable "location" {
-  description = "Azure region where resources will be created"
+  description = "Azure region for the Resource Group"
 
   type = string
 }
